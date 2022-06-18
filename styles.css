@@ -93,6 +93,11 @@ form p {
 @media screen and (max-width: 375px) {
     main {
         flex-direction: column;
+        width: 90%;
+    body {
+        background-image: url(bg-intro-mobile.png);
+
+    }
     }
 
 }
